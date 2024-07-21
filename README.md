@@ -22,7 +22,7 @@ realizar por medio de una API rest.
    git clone https://github.com/tuusuario/tu-repositorio.git
    cd tu-repositorio
 
-2. Base de datos llamada UsuarioPJ, importar script relacionado esta en la carpeta de Documentos.
+2. Base de datos llamada UsuarioPJ, importar script UsuarioPJ.sql en la raiz.
 
 3. Configurar la cadena de conexión de la base de datos en appsettings.json
  
